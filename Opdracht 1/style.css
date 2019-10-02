@@ -1,25 +1,27 @@
-body{
-    background-color: white;
-    margin: 0px 550px;
-    
+.text{
+    width: 960px;
+    margin: 0px auto;
 }
 
 h1 {
     font-family: 'Open Sans', sans-serif;
     border: 3px solid grey;
     border-width: 0px 0px 2px 0px;
+    font-size: 36px;
 }
 h2 {
     font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
 }
 p{
     font-family: 'Open Sans', sans-serif;
     color: black;
+    font-size: 20px;
 }
 
 img {
     width: 500px
 }
-p.een {
-    border:2px solid, blue
+.tip {
+    border:2px solid, blue;
 }
